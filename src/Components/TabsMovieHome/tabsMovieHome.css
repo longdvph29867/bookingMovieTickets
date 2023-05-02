@@ -1,0 +1,14 @@
+.ant-tabs-tabpane {
+    padding-left: 0 !important;
+}
+.ant-tabs-ink-bar {
+    background-color: #0e9f6e !important;
+}
+
+.ant-tabs-tab {
+    opacity: .7;
+    transition: all .3s;
+}
+.ant-tabs-tab.ant-tabs-tab-active {
+    opacity: 1;
+}

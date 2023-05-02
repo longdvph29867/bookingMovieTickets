@@ -1,0 +1,27 @@
+@media (max-width: 767px) {
+    .container {
+        max-width: 100%;
+        padding: 30px;
+    }
+    .selectMovie {
+        flex-direction: column;
+    }
+    .listSelect {
+        width: 100%;
+    }
+    button {
+        margin-top: 16px;
+    }
+}
+@media (max-width: 639px) {
+    .listSelect {
+        flex-direction: column;
+        width: 100%;
+    }
+    .itemSelect {
+        margin-bottom: 12px;
+    }
+    button {
+        margin-top: 16px;
+    }
+}

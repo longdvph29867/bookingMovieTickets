@@ -1,0 +1,5 @@
+export const SET_DETAIL_SCHELUDE = 'SET_DETAIL_SCHELUDE';
+export const SET_LIST_CHAIR = 'SET_LIST_CHAIR';
+export const SELECT_SEAT = 'SELECT_SEAT';
+export const PURCHASE = 'PURCHASE';
+export const DELETE_CHAIR = 'DELETE_CHAIR';
